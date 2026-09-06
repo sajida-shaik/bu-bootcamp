@@ -1,4 +1,4 @@
-package Module2;
+package module2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -93,7 +93,7 @@ public class GradeAnalyzer {
             totalScore += n;
         }
 
-        return totalScore/(scores.size());
+        return (double) totalScore/(scores.size());
     } 
  
     // Writes and prints the report

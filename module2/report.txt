@@ -1,0 +1,10 @@
+=== Grade Analysis Report ===
+Average score:  47.00
+Highest score:  99
+Lowest score:  2
+Grade distribution:
+  A (90-100):   2
+  B (80-89):    1
+  C (70-79):    0
+  D (60-69):    1
+  F (below 60):  7
